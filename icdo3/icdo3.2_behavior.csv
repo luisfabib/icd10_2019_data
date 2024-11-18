@@ -1,0 +1,6 @@
+0;Benign
+1;Uncertain whether benign or malignant
+2;In situ; non-invasive
+3;Malignant, primary
+6;Malignant, metastatic
+9;Malignant, uncertain whether primary or metastatic
