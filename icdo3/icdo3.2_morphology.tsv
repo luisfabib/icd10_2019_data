@@ -1178,8 +1178,11 @@ Code	Struct	Label
 8800/3	sub	"Soft tissue tumor, malignant"
 8800/3	sub	"Mesenchymal tumor, malignant"
 8800/9	title	"Sarcomatosis, NOS"
-8801/3	title	Spindle cell sarcoma
-8802/3	title	Giant cell sarcoma
+8801/3	title	Undifferentiated spindle cell sarcoma
+8801/3	sub	Spindle cell sarcoma		
+8802/3	title	Pleomorphic dermal sarcoma
+8802/3	sub	Undifferentiated pleomorphic cell sarcoma
+8802/3	sub	Giant cell sarcoma
 8802/3	sub	Pleomorphic cell sarcoma
 8803/3	title	Small cell sarcoma
 8803/3	sub	Round cell sarcoma
@@ -1193,7 +1196,8 @@ Code	Struct	Label
 8811/0	title	Fibromyxoma
 8811/0	sub	Myxoid fibroma
 8811/0	sub	"Myxofibroma, NOS"
-8811/3	title	Fibromyxosarcoma
+8811/3	title	Myxofibrosarcoma
+8811/3	sub	Fibromyxosarcoma
 8812/0	title	Periosteal fibroma
 8812/3	title	Periosteal fibrosarcoma
 8812/3	sub	"Periosteal sarcoma, NOS"
@@ -1219,8 +1223,8 @@ Code	Struct	Label
 8824/1	sub	Congenital generalized fibromatosis
 8824/1	sub	Infantile myofibromatosis
 8825/0	title	Myofibroblastoma
-8825/1	title	"Myofibroblastic tumor, NOS"
-8825/1	sub	Inflammatory myofibroblastic tumor
+8825/1	title	Inflammatory myofibroblastic tumor
+8825/1	sub	"Myofibroblastic tumor, NOS"
 8826/0	title	Angiomyofibroblastoma
 8827/1	title	"Myofibroblastic tumor, peribronchial"
 8827/1	sub	Congenital peribronchial myofibroblastic tumor
@@ -1230,7 +1234,8 @@ Code	Struct	Label
 8830/0	sub	Xanthofibroma
 8830/1	title	Atypical fibrous histiocytoma
 8830/1	sub	Atypical fibroxanthoma
-8830/3	title	Malignant fibrous histiocytoma
+8830/3	title	Undifferentiated high grade pleomorphic sarcoma of bone
+8830/3	sub	Malignant fibrous histiocytoma
 8830/3	sub	"Fibroxanthoma, malignant"
 8831/0	title	"Histiocytoma, NOS"
 8831/0	sub	Deep histiocytoma
@@ -1465,8 +1470,8 @@ Code	Struct	Label
 9120/0	title	"Hemangioma, NOS"
 9120/0	sub	"Angioma, NOS"
 9120/0	sub	Chorioangioma
-9120/3	title	Hemangiosarcoma
-9120/3	sub	Angiosarcoma
+9120/3	title	Angiosarcoma
+9120/3	sub	Hemangiosarcoma
 9121/0	title	Cavernous hemangioma
 9122/0	title	Venous hemangioma
 9123/0	title	Racemose hemangioma
@@ -1570,7 +1575,8 @@ Code	Struct	Label
 9230/0	sub	Chondromatous giant cell tumor
 9230/0	sub	Codman tumor
 9230/3	title	"Chondroblastoma, malignant"
-9231/3	title	Myxoid chondrosarcoma
+9231/3	title	Extraskeletal myxoid chondrosarcoma
+9231/3	sub	Myxoid chondrosarcoma
 9240/3	title	Mesenchymal chondrosarcoma
 9241/0	title	Chondromyxoid fibroma
 9242/3	title	Clear cell chondrosarcoma
