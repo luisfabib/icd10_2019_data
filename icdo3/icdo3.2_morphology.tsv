@@ -1046,7 +1046,6 @@ Code	Struct	Label
 8633/1	title	"Sertoli-Leydig cell tumor, retiform"
 8634/1	title	"Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements"
 8634/1	sub	"Sertoli-Leydig cell tumor, retiform, with heterologous elements"
-"8634/3
 8634/3"	title	"Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements"
 8640/1	title	"Sertoli cell tumor, NOS"
 8640/1	sub	Pick tubular adenoma
@@ -1180,8 +1179,8 @@ Code	Struct	Label
 8800/9	title	"Sarcomatosis, NOS"
 8801/3	title	Undifferentiated spindle cell sarcoma
 8801/3	sub	Spindle cell sarcoma		
-8802/3	title	Pleomorphic dermal sarcoma
-8802/3	sub	Undifferentiated pleomorphic cell sarcoma
+8802/3	title	Undifferentiated pleomorphic cell sarcoma
+8802/3	sub	Pleomorphic dermal sarcoma
 8802/3	sub	Giant cell sarcoma
 8802/3	sub	Pleomorphic cell sarcoma
 8803/3	title	Small cell sarcoma
@@ -1196,6 +1195,7 @@ Code	Struct	Label
 8811/0	title	Fibromyxoma
 8811/0	sub	Myxoid fibroma
 8811/0	sub	"Myxofibroma, NOS"
+8811/1	title	"Myxoinflammatory fibroblastic sarcoma (MIFS)"
 8811/3	title	Myxofibrosarcoma
 8811/3	sub	Fibromyxosarcoma
 8812/0	title	Periosteal fibroma
@@ -1207,9 +1207,12 @@ Code	Struct	Label
 8814/3	sub	Congenital fibrosarcoma
 8815/0	title	Solitary fibrous tumor
 8815/0	sub	Localized fibrous tumor
+8815/1	title	Solitary fibrous tumor, NOS
+8815/1	sub	Solitary fibrous tumor, uncertain whether benign or malignant
 8815/3	title	"Solitary fibrous tumor, malignant"
 8820/0	title	Elastofibroma
-8821/1	title	Aggressive fibromatosis
+8821/1	title	Desmoid tumor, NOS
+8821/1	sub	Aggressive fibromatosis
 8821/1	sub	Extra-abdominal desmoid
 8821/1	sub	"Desmoid, NOS"
 8821/1	sub	Invasive fibroma
@@ -1232,8 +1235,8 @@ Code	Struct	Label
 8830/0	sub	"Fibrous histiocytoma, NOS"
 8830/0	sub	"Fibroxanthoma, NOS"
 8830/0	sub	Xanthofibroma
-8830/1	title	Atypical fibrous histiocytoma
-8830/1	sub	Atypical fibroxanthoma
+8830/1	title	Atypical fibroxanthoma
+8830/1	sub	Atypical fibrous histiocytoma
 8830/3	title	Undifferentiated high grade pleomorphic sarcoma of bone
 8830/3	sub	Malignant fibrous histiocytoma
 8830/3	sub	"Fibroxanthoma, malignant"
@@ -1259,7 +1262,8 @@ Code	Struct	Label
 8841/1	sub	Aggressive angiomyxoma
 8842/0	title	Ossifying fibromyxoid tumor
 8850/0	title	"Lipoma, NOS"
-8850/1	title	Atypical lipoma/j
+8850/1	title	Atypical lipomatous tumor
+8850/1	sub	Atypical lipoma
 8850/1	sub	Superficial well differentated liposarcoma
 8850/1	sub	Well differentiated liposarcoma of superficial soft tissue
 8850/3	title	"Liposarcoma, NOS"
