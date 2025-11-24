@@ -1107,6 +1107,8 @@ Code	Struct	Label
 8711/3	title	"Glomus tumor, malignant"
 8712/0	title	Glomangioma
 8713/0	title	Glomangiomyoma
+8714/0	title	"Perivascular epithelioid cell tumour"
+8714/0	sub	"PEComa"
 8714/3	title	"Perivascular epithelioid tumour"
 8714/3	sub	"Malignant PEComa"
 8720/0	title	"Pigmented nevus, NOS"
@@ -1262,7 +1264,8 @@ Code	Struct	Label
 8835/1	title	Plexiform fibrohistiocytic tumor
 8836/1	title	Angiomatoid fibrous histiocytoma
 8840/0	title	"Myxoma, NOS"
-8840/3	title	Myxosarcoma
+8840/3	title	Sclerosing epithelioid fibrosarcoma
+8840/3	sub	Myxosarcoma
 8841/1	title	Angiomyxoma
 8841/1	sub	Aggressive angiomyxoma
 8842/0	title	Ossifying fibromyxoid tumor
